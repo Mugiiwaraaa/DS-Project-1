@@ -61,7 +61,7 @@ Multiple Linear Regression – Baseline for the model
 DecisionTree Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like DecisionTree would be effective.
 Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
 
-## Model performance ##
+## Model Performance ##
 The Random Forest Regression model outperformed the other approaches on the test and validation sets.I found out the Mean and the Standard Deviation for all the three models. This basically gives us an image by how much percentage can the predictions be off the actual prediction.
 * **Multiple Linear Regression:**   Mean- 5.028337074958086 , Standard Deviation- 1.056869119278954
 * **Decision Tree Regression:** Mean- 4.256820741921791,
