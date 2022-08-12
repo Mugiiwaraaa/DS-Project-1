@@ -55,11 +55,11 @@ I split the data into train and tests sets with a test size of 20%.
 
 I tried three different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.
 
-I tried three different models:
+The three different models I tried are:
 
-Multiple Linear Regression – Baseline for the model
-DecisionTree Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like DecisionTree would be effective.
-Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
+* Multiple Linear Regression – Baseline for the model
+* DecisionTree Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like DecisionTree would be effective.
+* Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
 
 ## Model Performance ##
 The Random Forest Regression model outperformed the other approaches on the test and validation sets.I found out the Mean and the Standard Deviation for all the three models. This basically gives us an image by how much percentage can the predictions be off the actual prediction.
