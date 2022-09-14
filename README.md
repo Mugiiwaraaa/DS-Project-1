@@ -1,4 +1,4 @@
-# DS-Project-1
+# Real Estate Price Predictor
 Engineered a model that estimates and predicts the price for Real Estate
 
 * Designed a model that estimates the prices of real estate (Median value of owner-occupied homes in $1000’s) to optimize future real estate purchases (minimizing losses) as housing prices are an important reflection of the economy, and housing price ranges are of great interest for both buyers and sellers.
